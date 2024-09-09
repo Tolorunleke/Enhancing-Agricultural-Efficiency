@@ -1,6 +1,6 @@
-# Regression with an Abalone Dataset
+# Enhancing Agricultural Efficiency: Regression Analysis for Abalone Age Estimation and Delivery Optimization
 
-This repository contains the code and resources for the Kaggle competition **[Regression with an Abalone Dataset](https://kaggle.com/competitions/playground-series-s4e4)**, authored by Walter Reade and Ashley Chow (2024). The goal of this competition is to predict the age of abalone, a type of sea snail, using various physical measurements. The evaluation metric for this task is **Root Mean Squared Logarithmic Error (RMSLE)**.
+This repository contains the code and resources for the Kaggle competition **[Regression with an Abalone Dataset](https://kaggle.com/competitions/playground-series-s4e4)**, authored by Walter Reade and Ashley Chow (2024). The goal of this project is to improve delivery planning for agricultural Abalone products by developing predictive models to estimate the age of each Abalone. The evaluation metric for this task is **Root Mean Squared Logarithmic Error (RMSLE)**.
 
 ## 📊 Project Overview
 
@@ -40,11 +40,10 @@ This repository contains the code and resources for the Kaggle competition **[Re
 ### 🏆 Results and Insights
 - The model performances are compared, and the best model is selected based on the lowest RMSLE score.
 - Key findings, insights, and recommendations for improving the model are discussed.
+- The implications for agricultural efficiency and delivery optimization are analyzed.
 
 ## 🚀 Getting Started
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Tolorunleke/Regression-ML-Model-on-Abalones.git
-## 🤝 Acknowledgments
-- This project is part of a Kaggle competition, Regression with an Abalone Dataset, by Walter Reade and Ashley Chow (2024). https://kaggle.com/competitions/playground-series-s4e4
