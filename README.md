@@ -1,6 +1,6 @@
 # A Regression Analysis for Abalone Age Estimation and Delivery Optimization
 
-This repository contains the code and resources for the Kaggle competition **[Regression with an Abalone Dataset](https://kaggle.com/competitions/playground-series-s4e4)**, authored by Walter Reade and Ashley Chow (2024). The goal of this project is to improve delivery planning for agricultural Abalone products by developing predictive models to estimate the age of each Abalone from various physical measurements. The evaluation metric for this task is **Root Mean Squared Logarithmic Error (RMSLE)**.
+This repository contains the code and resources for the Kaggle competition **[Regression with an Abalone Dataset](https://kaggle.com/competitions/playground-series-s4e4)**, authored by Walter Reade and Ashley Chow (2024). The goal of this project is to improve delivery planning for agricultural Abalone products by developing predictive models to estimate the age of each Abalone from various physical measurements. The evaluation metric for this task is **Root Mean Squared Logarithmic Error (RMSLE)**. Accurate age prediction is crucial for managing growth cycles and harvesting abalones at the right time to maximize yield and quality.
 
 ## 📊 Project Overview
 
